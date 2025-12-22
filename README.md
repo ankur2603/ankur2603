@@ -1,6 +1,6 @@
 # Hi, I'm Ankur 👋
 
-🎓 Undergraduate at **MNNIT Allahabad (2025–2029)**  
+🎓 First-year undergraduate at **MNNIT Allahabad (2025–2029)**  
 💻 Exploring **DSA, Web Development, and AI/ML**  
 📌 Building strong fundamentals through consistency and practice  
 
