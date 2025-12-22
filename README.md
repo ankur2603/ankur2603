@@ -16,8 +16,7 @@
 - Git & GitHub
 
 ### Approach
-I don’t aim to be better than others —  
-just better than who I was yesterday.
+I don’t aim to be better than others — just better than who I was yesterday.
 
 ---
 
