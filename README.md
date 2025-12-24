@@ -11,7 +11,7 @@
 
 ### Tech I Use
 - Java (intermediate)
-- Python (baics)
+- Python (basics)
 - HTML/CSS (basics)
 - Git & GitHub
 
