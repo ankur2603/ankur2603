@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Ankur 👋<br><br>🎓 First-year undergraduate at **MNNIT Allahabad (2025–2029)**  <br>💻 Exploring **DSA, Web Development, and AI/ML**  <br>📌 Building strong fundamentals through consistency and practice  <br><br>Currently Working On<br>- Data Structures & Algorithms (Java)<br>- Web Development basics<br>- Small AI/ML learning projects<br><br>Tech I Use<br>- Java (intermediate)<br>- Python (basics)<br>- HTML/CSS (basics)<br>- Git & GitHub<br><br>Approach<br>I don’t aim to be better than others — just better than who I was yesterday.<br><br>---<br><br>Trying to get a little better each day ✨ <br>
+# Hi, I'm Ankur 👋<br><br>🎓 First-year undergraduate at **MNNIT Allahabad (2025–2029)**  <br>💻 Exploring **DSA, Web Development, and AI/ML**  <br>📌 Building strong fundamentals through consistency and practice  <br><br>Currently Working On<br>- Data Structures & Algorithms (Java)<br>- Web Development basics<br>- Small AI/ML learning projects<br><br>Tech I Use<br>- Java (intermediate)<br>- Python (basics)<br>- HTML/CSS (basics)<br>- Git & GitHub<br><br>---<br><br>Trying to get a little better each day ✨ <br>
 
 
 ## 🌐 Socials:
